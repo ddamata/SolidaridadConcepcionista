@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.slide{
+	width:-webkit-848px;
+	height: -webkit-453px;
+	overflow-x:-webkit-scroll;
+	overflow-y:-webkit-hidden;
+
+}
+
+.slide li img{
+	width :999px;
+	height: 453px;
+	
+	}
+	
+.slide li{
+	list-stile: none;
+	float: left;
+}
+a.nfoto{
+	text-decoration:none;
+	color:#FFFFFF;
+	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:15px;
+	background-color:#E8488A;
+	margin: 0.3em 0;
+    padding: 0.2em;
+    border-right: 0.2em solid #8bb641 	/*#D4A957*/;
+	
+
+	
+	}
